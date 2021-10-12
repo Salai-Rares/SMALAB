@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LabSMA</string>
+    <string name="greeting">Hello there!</string>
+    <string name="bye">Bye!</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
 </resources>
